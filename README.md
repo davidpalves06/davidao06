@@ -9,5 +9,3 @@ I'm currently a 3rd year student of Software Engineering at @UMinho. 📖
 - 🌟 Favourite Quote : "Demand more from yourself than others would expect" - Tony Robbins
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidao06&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidao06&layout=compact)
