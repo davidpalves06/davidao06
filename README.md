@@ -2,10 +2,8 @@
 
 Hi. My name is David Pereira Alves and I'm 21 years old 👦
 
-I'm currently a 3rd year student of Software Engineering at @UMinho. 📖
+I'm currently working as a software engineer at Altice Labs.
 
-- ⚡ Fun fact: I like all kind of sports but I mainly watch Football , Cycling or Basketball. 🏅
+- 🌟 Favourite Quote : "It is better to be a warrior in a garden than a gardener in a war".
 
-- 🌟 Favourite Quote : "Demand more from yourself than others would expect" - Tony Robbins
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidao06&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidpalves06&show_icons=true&theme=radical)
